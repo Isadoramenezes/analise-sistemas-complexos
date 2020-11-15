@@ -1,0 +1,3 @@
+venv/*
+.ipybn_checkpoints/
+*txt
